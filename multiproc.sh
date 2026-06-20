@@ -9,7 +9,7 @@
 atk_cmd="python3 cc.py -url https://desertsafari-dubai.ae -v 4 -s 60"
 
 #number of process that you want
-process=10
+process=40
 
 #change the system limit
 ulimit -n 999999
